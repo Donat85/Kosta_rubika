@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lab04-pierwszy3D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j3dutils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
